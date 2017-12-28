@@ -1,5 +1,5 @@
 $(function() {
-  const NUM_OF_QUESTIONS = 1;
+  const NUM_OF_QUESTIONS = 24;
   var disableNext = false;
 
   $('#wizard').steps({
